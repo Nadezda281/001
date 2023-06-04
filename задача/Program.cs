@@ -5,3 +5,4 @@
 //Решение:
 ﻿string[] array1 = new string[5] {"1", "тридцать", "25", "сто", "десять"};
 string[] array2 = new string[array1.Length];
+ int count=0;
